@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(){
+    
+    printf("I love GD!\n");
+    printf("It's really great!");
+
+    return 0;
+}
